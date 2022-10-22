@@ -1,6 +1,6 @@
 # Semana Imersão DEV Da Alura
 
-![preview](./.github/Preview.png)
+![preview](./.github/preview.png)
 
 >Aulas 7 & 8
 
